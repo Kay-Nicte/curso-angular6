@@ -1,2 +1,2 @@
-# curso-angular6
-Curso de Angular de Coursera 05/09/2022
+# Curso de Angular de Coursera 
+##Fecha: 05/09/2022
